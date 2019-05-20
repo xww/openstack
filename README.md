@@ -1,4 +1,4 @@
-#OpenStack课程大纲
+# OpenStack课程大纲
 
 1. OpenStack简介
    OpenStack起源，解决了什么问题和痛点，企业实际应用场景，现状，和容器生态世界的竞争与协作；
