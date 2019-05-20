@@ -23,56 +23,86 @@
 6. 计算服务
 
     Qemu技术讲解和操作；
+    
     KVM虚拟化技术讲解和操作；
+    
     Libvirt技术讲解和操作；
+    
     Nova架构设计和服务组件分析；
+    
     Nova部署；
+    
     Nova核心概念如cell， 调度 ，资源更新，硬件管理，创建删除流程讲解，以novaclient输出为讲解指南；
 
 7. 网络服务
 
     网络基础技术namespace dhcp vxlan gre ovs openflow等技术讲解；
+    
     Neutron网络项目架构和服务组件讲解；
+    
     Neutron项目部署和操作；
+    
     Neutron数据流量走向图；
 
 8. 存储服务
+
     存储技术基础，块存储、对象存储、文件存储；
+    
     Cinder项目设计架构和服务组件讲解；
+    
     Ceph服务讲解；
+    
     Cinder和ceph服务部署并对接；
 
-9. horizon服务
-horizon服务讲解，部署；
+9. Horizon服务
+    
+    Horizon服务讲解，部署；
 
 10. OpenStack集群性能
-rabbitmqq mysql nova neutron网络节点 存储等服务的性能；
+
+    rabbitmqq mysql nova neutron网络节点 存储等服务的性能；
 
 11. OpenStack HA
- 控制、计算、存储、网络、基础服务等各大组件的HA；
+
+    控制、计算、存储、网络、基础服务等各大组件的HA；
 
 12. OpenStack集群规划和运维
-集群节点硬件要求，软件版本，组网，增删节点；
+
+    集群节点硬件要求，软件版本，组网，增删节点；
 
 13. OpenStack演示和错误排查
- 虚拟机创建删除resize迁移等重要操作
- 创建删除代码流程分析
- 错误排查
- 源码修改和调试
+ 
+     虚拟机创建删除resize迁移等重要操作；
+     
+     创建删除代码流程分析；
+     
+     错误排查；
+     
+     源码修改和调试；
 
 14. 容器生态圈
-容器世界的技术；
-容器生态圈发展变迁演进；
-容器领域解决的问题，场景，需求，如何蚕食OpenStack份额；
-Kubernetes服务讲解；
-OpenStack和容器生态如何共存；
+
+    容器世界的技术；
+    
+    容器生态圈发展变迁演进；
+    
+    容器领域解决的问题，场景，需求，如何蚕食OpenStack份额；
+    
+    Kubernetes服务讲解；
+    
+    OpenStack和容器生态如何共存；
 
 ## 基础知识
-1.linux基础，cgroup namespace等；
-2.cpu内存虚拟化，kvm qemu libvirt；
-3.网络基础，vlan vxlan gre ovs openflow net-namespace；
-4.存储基础，raid lvm qcow ceph；
-5.容器docker k8s相关；
+
+    1.linux基础，cgroup namespace等；
+    
+    2.cpu内存虚拟化，kvm qemu libvirt；
+    
+    3.网络基础，vlan vxlan gre ovs openflow net-namespace；
+    
+    4.存储基础，raid lvm qcow ceph；
+    
+    5.容器docker k8s相关；
 
 
 
