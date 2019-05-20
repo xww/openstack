@@ -1,10 +1,10 @@
 # OpenStack课程大纲
 
 1. OpenStack简介
-   OpenStack起源，解决了什么问题和痛点，企业实际应用场景，现状，和容器生态世界的竞争与协作；
+OpenStack起源，解决了什么问题和痛点，企业实际应用场景，现状，和容器生态世界的竞争与协作；
 
 2. OpenStack项目介绍
-   OpenStack全景概览，社区组织，运作方式，核心项目，文档；
+OpenStack全景概览，社区组织，运作方式，核心项目，文档；
 
 3. OpenStack基础
    OpenStack项目入门基础技术，OpenStack社区架构设计，基础依赖；
