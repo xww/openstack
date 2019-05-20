@@ -5,36 +5,42 @@
     OpenStack起源，解决了什么问题和痛点，企业实际应用场景，现状，和容器生态世界的竞争与协作；
 
 2. OpenStack项目介绍
-OpenStack全景概览，社区组织，运作方式，核心项目，文档；
+
+    OpenStack全景概览，社区组织，运作方式，核心项目，文档；
 
 3. OpenStack基础
+   
    OpenStack项目入门基础技术，OpenStack社区架构设计，基础依赖；
 
 4. 认证服务
+   
    Keystone服务关键概念详解，部署模式，部署操作；
 
 5. 镜像服务
-Glance的作用和概念，镜像格式，qcow2 raw rbd等格式介绍，部署操作；
+
+    Glance的作用和概念，镜像格式，qcow2 raw rbd等格式介绍，部署操作；
 
 6. 计算服务
-Qemu技术讲解和操作；
-KVM虚拟化技术讲解和操作；
-Libvirt技术讲解和操作；
-Nova架构设计和服务组件分析；
-Nova部署；
-nova核心概念如cell， 调度 ，资源更新，硬件管理，创建删除流程讲解，以novaclient输出为讲解指南；
+
+    Qemu技术讲解和操作；
+    KVM虚拟化技术讲解和操作；
+    Libvirt技术讲解和操作；
+    Nova架构设计和服务组件分析；
+    Nova部署；
+    Nova核心概念如cell， 调度 ，资源更新，硬件管理，创建删除流程讲解，以novaclient输出为讲解指南；
 
 7. 网络服务
- 网络基础技术namespace dhcp vxlan gre ovs openflow等技术讲解；
- Neutron网络项目架构和服务组件讲解；
- neutron项目部署和操作；
- neutron数据流量走向图；
+
+    网络基础技术namespace dhcp vxlan gre ovs openflow等技术讲解；
+    Neutron网络项目架构和服务组件讲解；
+    Neutron项目部署和操作；
+    Neutron数据流量走向图；
 
 8. 存储服务
-存储技术基础，块存储、对象存储、文件存储；
-Cinder项目设计架构和服务组件讲解；
-Ceph服务讲解；
-cinder和ceph服务部署并对接；
+    存储技术基础，块存储、对象存储、文件存储；
+    Cinder项目设计架构和服务组件讲解；
+    Ceph服务讲解；
+    Cinder和ceph服务部署并对接；
 
 9. horizon服务
 horizon服务讲解，部署；
